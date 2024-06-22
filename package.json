@@ -1,0 +1,38 @@
+{
+  "name": "detect-profanity",
+  "version": "1.0.1",
+  "description": "A package to detect profane words",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s21sd/Profanity.git"
+  },
+  "keywords": [
+    "curse",
+    "swear",
+    "words",
+    "profanity",
+    "filter",
+    "checker",
+    "badwords",
+    "clean",
+    "detect",
+    "sanitize",
+    "utility",
+    "nsfw"
+  ],
+  "author": "\"Sunny Srivastava\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s21sd/Profanity/issues"
+  },
+  "homepage": "https://github.com/s21sd/Profanity#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.5"
+  }
+}
